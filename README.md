@@ -3,4 +3,4 @@
 
 ###Validation
 - 这是一个关于spring validation的例子项目
-- [点击前往对应的文章]()
+- [点击前往对应的文章](https://juejin.cn/post/6959467709364961316)
